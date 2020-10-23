@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07a85385-b394-43b4-8396-b3af3a210229</dc:identifier>
+        <dc:title>Flutter para Iniciantes</dc:title>
+        <dc:creator opf:file-as="Melo, Rubens de" opf:role="aut">Rubens de Melo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-23T15:38:19.810197+00:00</dc:date>
+        <dc:publisher>GitBook</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">248dce38-68c1-4ada-85c4-2f35f858ee58</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Rubens de Melo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-23T15:43:31.126904+00:00"/>
+        <meta name="calibre:title_sort" content="Flutter para Iniciantes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capas" href="cover.jpg"/>
+    </guide>
+</package>
